@@ -25,20 +25,25 @@ The dataset contains historical sales and associated features across multiple st
 ---
 
 ## 🔧 Project Structure
-
+```plaintext  
 retail-demand-forecasting/
 ├── README.md
 ├── requirements.txt
-├── main_notebook.ipynb
-├── report/
-│   └── Retail_Forecasting_Report.pdf (optional)
+├── Python Code/
+│   └── Integrated_Retail_Analytics_for_Store_Optimization_and_Demand_Forecasting.ipynb
+├── Detailed Documentation/
+│   └── Integrated_Retail_Analytics_for_Store_Optimization_and_Demand_Forecasting_Detailed_Documentation
 ├── images/
 │   ├── sales_forecast.png
 │   └── campaign_impact.png
-└── data/
-    └── processed_data.csv
+│   └── Store cluster.png
+│   └── Feature Importance.png
+└── Dataset/
+    └── features.csv
+    └── stores.csv
+    └── sales.csv
 
-
+```
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
