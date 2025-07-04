@@ -103,9 +103,9 @@ Detected sales spikes/drops using:
 | Visualization                                                | Description                                                   |
 | -------------------------------------------------------------| ------------------------------------------------------------- |
 | ![Sales Forecast](Images/2013_Forecast.png)                  | Forecasted sales using Holt-Winters and SARIMAX models        |
-| ![Campaign Impact](images/Campaign_effect_cusal_impact.png)  | Causal impact of a marketing campaign on Dept 4               |
-| ![Store Clusters](images/Cluster_Stores.png)                 | Clustering of stores using KMeans and PCA                     |
-| ![Feature Importance](images/Feature_Importance.png)         | Top features contributing to sales prediction (Random Forest) |
+| ![Campaign Impact](Images/Campaign_effect_cusal_impact.png)  | Causal impact of a marketing campaign on Dept 4               |
+| ![Store Clusters](Images/Cluster_Stores.png)                 | Clustering of stores using KMeans and PCA                     |
+| ![Feature Importance](Images/Feature_Importance.png)         | Top features contributing to sales prediction (Random Forest) |
 
 
 ## 📢 Marketing Campaign Analysis
