@@ -99,6 +99,14 @@ Detected sales spikes/drops using:
 - MAE: ~8.9K, RMSE: ~9.2K (optimized)
 
 ---
+## 🖼️ Visual Insights
+| Visualization                                                | Description                                                   |
+| -------------------------------------------------------------| ------------------------------------------------------------- |
+| ![Sales Forecast](images/2013_Forecast.png)                  | Forecasted sales using Holt-Winters and SARIMAX models        |
+| ![Campaign Impact](images/Campaign_effect_cusal_impact.png)  | Causal impact of a marketing campaign on Dept 4               |
+| ![Store Clusters](images/Cluster_Stores.png)                 | Clustering of stores using KMeans and PCA                     |
+| ![Feature Importance](images/Feature_Importance.png)         | Top features contributing to sales prediction (Random Forest) |
+
 
 ## 📢 Marketing Campaign Analysis
 
@@ -143,5 +151,12 @@ A synthetic campaign was introduced for **Dept 4** (Q3–2012).
 git clone https://github.com/Souvik-karmakar/retail-demand-forecasting.git
 cd retail-demand-forecasting
 pip install -r requirements.txt
+```
+
+## 🤝 Contact
+- For any queries or collaboration, feel free to connect:
+- Name: Souvik Karmakar
+- Email: ksouvik98@gmail.com
+- LinkedIn: [linkedin.com/in/souvik-karmakar](https://www.linkedin.com/in/souvik-karmakar83/)
 
 
