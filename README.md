@@ -26,13 +26,18 @@ The dataset contains historical sales and associated features across multiple st
 
 ## 🔧 Project Structure
 
-Retail-Demand-Forecasting/
-├── data/ # Raw and processed data
-├── notebooks/ # Jupyter notebooks with code
-├── images/ # Charts and screenshots for visual aids
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── report/ # Google Docs/pdf project report
+retail-demand-forecasting/
+├── README.md
+├── requirements.txt
+├── main_notebook.ipynb
+├── report/
+│   └── Retail_Forecasting_Report.pdf (optional)
+├── images/
+│   ├── sales_forecast.png
+│   └── campaign_impact.png
+└── data/
+    └── processed_data.csv
+
 
 ---
 
